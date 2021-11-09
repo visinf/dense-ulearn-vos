@@ -7,7 +7,7 @@ This repository contains the official implementation of our paper:
 
 **Dense Unsupervised Learning for Video Segmentation**<br>
 [Nikita Araslanov](https://arnike.github.io), [Simone Schaub-Mayer](https://schaubsi.github.io) and [Stefan Roth](https://www.visinf.tu-darmstadt.de/visinf/team_members/sroth/sroth.en.jsp)<br>
-To appear at NeurIPS*2021. [arXiv preprint] (Coming soon)
+To appear at NeurIPS*2021. [[pdf](https://openreview.net/pdf?id=i8kfkuiCJCI)] [[supp](https://openreview.net/attachment?id=i8kfkuiCJCI&name=supplementary_material)]
 
 | <img src="assets/examples.gif" alt="drawing" width="420"/><br> |
 |:--:|

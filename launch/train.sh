@@ -3,8 +3,8 @@
 # Set the following variables
 # The tensorboard logging will be creating in logs/<EXP>/<EXP_ID>
 # The snapshots will be saved in snapshots/<EXP>/<EXP_ID>
-EXP=v17_vos
-EXP_ID=v20_00_release
+EXP=v01_vos
+EXP_ID=v01_00_base
 
 #
 # No change are necessary starting here

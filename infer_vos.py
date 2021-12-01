@@ -324,7 +324,7 @@ if __name__ == '__main__':
 
     # setting the evaluation mode
     model.eval()
-    model = nn.DataParallel(model).cuda()
+    model = model.cuda()
     dataset = DataSeg(cfg, args.infer_list)
 
     dataloader = DataLoader(dataset, batch_size=1, shuffle=False, \
